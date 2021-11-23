@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+		{"type":"Feature",
+		"geometry":{
+			"type":"Point",
+			"coordinates":[103.838232475714,1.27975902116932]
+		},
+		"properties":{
+			"BLK_NO":"5",
+			"BUILDING":"NATIONAL DENTAL CENTRE",
+			"ROAD_NAME":"SECOND HOSPITAL AVENUE",
+			"POSTAL":"168938"
+		}}
+]}
